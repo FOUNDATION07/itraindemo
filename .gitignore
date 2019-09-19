@@ -1,0 +1,4 @@
+this is a file created to ignore all the files which are temporary and not in use.
+*.txt
+*.class
+
